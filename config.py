@@ -1,0 +1,6 @@
+customhost = "vehiclecdb.cjiqyikrwyk4.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "123456789"
+customdb = "Vehicle"
+custombucket = "addvehicular"
+customregion = "us-east-1"
